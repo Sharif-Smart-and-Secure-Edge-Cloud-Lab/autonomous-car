@@ -1,0 +1,3 @@
+[submodule "interior_camera/video-intelligence"]
+	path = interior_camera/video-intelligence
+	url = https://github.com/Sharif-Smart-and-Secure-Edge-Cloud-Lab/video-intelligence
